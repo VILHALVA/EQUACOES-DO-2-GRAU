@@ -35,5 +35,4 @@ Este projeto é uma calculadora de equações do segundo grau que permite aos us
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
